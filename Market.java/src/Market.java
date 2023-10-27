@@ -1,6 +1,3 @@
-import java.util.LinkedList;
-import java.util.List;
-
 public class Market implements QueueBehaviour, MarketBehaviour {
     @Override
     public void takeQueuer(Person person) {
